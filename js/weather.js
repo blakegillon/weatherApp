@@ -11,23 +11,23 @@ $(document).ready(function() {
     switch (icon) {
       case "01d":
       case "01n":
-        backgroundPicture = 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/368633/clear.jpg';
+        backgroundPicture = 'http://leverhawk.com/wp-content/uploads/2013/09/iStock_000012580113Medium.jpg';
         break;
       case "02d":
       case "02n":
       case "03d":
       case "03n":
-        backgroundPicture = 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/368633/overcast.jpg';
+        backgroundPicture = 'https://photos.travelblog.org/Photos/42353/218031/f/1665835-Overcast-Sydney-0.jpg';
         break;
       case "04d":
       case "04n":
-        backgroundPicture = 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/368633/mostly_cloudy.jpg';
+        backgroundPicture = 'http://www.wallpaperscharlie.com/wp-content/uploads/2016/07/Cloudy-Weather-HD-Wallpapers-3.jpg';
         break;
       case "09d":
       case "09n":
       case "10d":
       case "10n":
-        backgroundPicture = 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/368633/rainy.jpg';
+        backgroundPicture = 'https://www.scienceabc.com/wp-content/uploads/2015/05/Walking-in-Rain.jpg';
         break;
       case "11d":
       case "11n":
@@ -35,11 +35,11 @@ $(document).ready(function() {
         break;
       case "13d":
       case "13n":
-        backgroundPicture = 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/368633/snow.jpg';
+        backgroundPicture = 'https://vignette4.wikia.nocookie.net/phobia/images/a/aa/Snow.jpg/revision/latest?cb=20161109045734';
         break;
       case "50d":
       case "50n":
-        backgroundPicture = 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/368633/mist.jpg';
+        backgroundPicture = 'http://img09.deviantart.net/7a76/i/2010/251/8/2/misty_mountain_weather_17_by_sveltephoto-d2ybp03.jpg';
         break;
     }
     return backgroundPicture;
